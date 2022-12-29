@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.template"
+    namespace = "com.powilliam.reimaginedspork"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.example.template"
+        applicationId = "com.powilliam.reimaginedspork"
         minSdk = 27
         targetSdk = 33
         versionCode = 1
